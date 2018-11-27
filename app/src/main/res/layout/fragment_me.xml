@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="@color/dark_white" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <ScrollView android:background="@color/dark_white" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <LinearLayout android:orientation="vertical" android:background="@color/dark_white" android:visibility="visible" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <RelativeLayout android:layout_width="fill_parent" android:layout_height="310.0dip" android:background="@color/white"
+                    android:layout_marginBottom="5dp"
+                    android:layout_marginTop="15dp"
+                    android:layout_marginStart="10dp"
+                    android:layout_marginEnd="10dp">
+                    <RelativeLayout android:id="@+id/layout_title_no_login" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="230.0dip">
+                        <Button android:textSize="15.0dip" android:textColor="@color/white" android:gravity="center" android:id="@+id/login_register" android:background="@drawable/selector_btn_white" android:layout_width="160.0dip" android:layout_height="30.0dip" android:layout_marginTop="135.0dip" android:text="@string/login_register" android:layout_centerHorizontal="true" />
+                    </RelativeLayout>
+                    <RelativeLayout android:id="@+id/layout_title_login" android:layout_width="fill_parent" android:layout_height="230.0dip">
+                        <RelativeLayout android:id="@+id/layout_user_avatar_login" android:background="@drawable/bg_avatar" android:layout_width="68.0dip" android:layout_height="68.0dip" android:layout_marginTop="95.0dip" android:layout_centerHorizontal="true">
+                            <com.example.cne_shop.base.CircleImageView android:id="@+id/iv_user_avatar" android:layout_width="62.0dip" android:layout_height="62.0dip" android:scaleType="centerCrop" android:layout_centerInParent="true" />
+                        </RelativeLayout>
+                        <TextView android:textSize="15.0sp" android:textColor="@color/black" android:id="@+id/tv_accountNick" android:layout_width="wrap_content" android:layout_height="20.0dip" android:layout_marginTop="5.0dip" android:layout_below="@id/layout_user_avatar_login" android:layout_centerHorizontal="true" />
+                        <TextView android:textSize="15.0sp" android:textColor="@color/backColor" android:id="@+id/tv_account" android:layout_width="wrap_content" android:layout_height="20.0dip" android:layout_marginTop="5.0dip" android:layout_below="@id/tv_accountNick" android:layout_centerHorizontal="true" />
+                    </RelativeLayout>
+                    <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="80.0dip" android:layout_alignParentBottom="true">
+                        <RelativeLayout android:layout_gravity="center_vertical" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0">
+                            <TextView android:textSize="13.0sp" android:textColor="#ff332e28" android:gravity="center" android:layout_gravity="center_vertical" android:id="@+id/tv_my_count" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/my_zh" android:drawableTop="@mipmap/my_zh" android:drawablePadding="2.0dip" />
+                        </RelativeLayout>
+                        <View android:layout_gravity="center" android:background="@color/line" android:layout_width="1.0px" android:layout_height="45.0dip" />
+                        <RelativeLayout android:layout_gravity="center_vertical" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0">
+                            <TextView android:textSize="13.0sp" android:textColor="#ff332e28" android:gravity="center" android:layout_gravity="center_vertical" android:id="@+id/tv_shopping_cart" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/my_gwc" android:drawableTop="@mipmap/my_gwc" android:drawablePadding="2.0dip" />
+                            <TextView android:textSize="10.0sp" android:textColor="@color/white" android:gravity="center" android:id="@+id/tv_shopping_hint" android:background="@drawable/icon_message_hint_count" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="5.0dip" android:layout_marginRight="40.0dip" android:layout_alignParentRight="true" />
+                        </RelativeLayout>
+                        <View android:layout_gravity="center" android:background="@color/line" android:layout_width="1.0px" android:layout_height="45.0dip" />
+                        <TextView android:textSize="13.0sp" android:textColor="#ff332e28" android:gravity="center" android:layout_gravity="center_vertical" android:id="@+id/tv_my_order" android:layout_width="0.0dip" android:layout_height="wrap_content" android:text="@string/my_order" android:drawableTop="@mipmap/my_dd" android:drawablePadding="2.0dip" android:layout_weight="1.0" />
+                    </LinearLayout>
+                </RelativeLayout>
+                <View android:background="@color/divider" android:layout_width="fill_parent" android:layout_height="1.0px" />
+                <RelativeLayout android:id="@+id/live_layout" android:background="@color/white" android:padding="15.0dip" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="195.0dip" android:layout_marginTop="10.0dip">
+                    <ImageView android:id="@+id/iv_live_img" android:layout_width="fill_parent" android:layout_height="fill_parent" android:scaleType="centerCrop" />
+                    <ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@mipmap/icon_bofang" android:scaleType="centerCrop" android:layout_centerInParent="true" />
+                    <TextView android:textSize="13.0sp" android:textColor="@color/white" android:id="@+id/tv_device_status" android:background="@drawable/bg_play_tips" android:paddingLeft="8.0dip" android:paddingTop="3.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="硬装直播中" />
+                    <RelativeLayout android:id="@+id/layout_order_progress" android:background="@color/black" android:layout_width="fill_parent" android:layout_height="31.0dip" android:layout_alignParentBottom="true" android:alpha="0.7">
+                        <TextView android:textSize="13.0sp" android:textColor="@color/white" android:id="@+id/tv_progress" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="9.0dip" android:layout_centerVertical="true" />
+                        <Button android:textSize="13.0sp" android:textColor="@color/white" android:id="@+id/btn_to_order" android:background="@drawable/my_check_order" android:paddingLeft="5.0dip" android:paddingRight="5.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="9.0dip" android:text="查看订单" android:layout_alignParentRight="true" android:layout_centerVertical="true" />
+                    </RelativeLayout>
+                </RelativeLayout>
+                <View android:background="@color/divider" android:layout_width="fill_parent" android:layout_height="1.0px" />
+                <RelativeLayout android:id="@+id/layout_buy_order" android:background="@color/white" android:paddingLeft="15.0dip" android:paddingRight="15.0dip" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="46.0dip" android:layout_marginTop="10.0dip">
+                    <TextView android:textSize="14.0sp" android:textColor="@color/gray_1" android:gravity="center_vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="抢购订单" android:drawableLeft="@drawable/icon_my_invite" android:drawablePadding="13.0dip" android:layout_centerVertical="true" />
+                    <ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/icon_arrow" android:layout_alignParentRight="true" android:layout_centerVertical="true" />
+                </RelativeLayout>
+                <View android:id="@+id/divider_1" android:background="@color/divider" android:layout_width="fill_parent" android:layout_height="1.0px" />
+                <RelativeLayout android:id="@+id/rl_my_sc" android:background="@drawable/bg_white_gray_selector" android:paddingLeft="16.0dip" android:paddingRight="15.0dip" android:layout_width="fill_parent" android:layout_height="46.0dip" android:layout_marginTop="10.0dip">
+                    <TextView android:textSize="14.0sp" android:textColor="@color/gray_1" android:gravity="center_vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/my_sc" android:drawableLeft="@mipmap/my_sc" android:drawablePadding="15.0dip" android:layout_centerVertical="true" />
+                    <ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/icon_arrow" android:layout_alignParentRight="true" android:layout_centerVertical="true" />
+                </RelativeLayout>
+                <View android:background="@color/divider" android:layout_width="fill_parent" android:layout_height="1.0px" />
+                <RelativeLayout android:id="@+id/rl_my_dz" android:background="@drawable/bg_white_gray_selector" android:paddingLeft="16.0dip" android:paddingRight="15.0dip" android:layout_width="fill_parent" android:layout_height="46.0dip">
+                    <TextView android:textSize="14.0sp" android:textColor="@color/gray_1" android:gravity="center_vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/my_dz" android:drawableLeft="@mipmap/my_dz" android:drawablePadding="15.0dip" android:layout_centerVertical="true" />
+                    <ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/icon_arrow" android:layout_alignParentRight="true" android:layout_centerVertical="true" />
+                </RelativeLayout>
+                <View android:id="@+id/quick_repairs_line" android:background="@color/divider" android:layout_width="fill_parent" android:layout_height="1.0px" />
+                <RelativeLayout android:id="@+id/rl_my_kf" android:background="@drawable/bg_white_gray_selector" android:paddingLeft="15.0dip" android:paddingRight="15.0dip" android:layout_width="fill_parent" android:layout_height="46.0dip">
+                    <TextView android:textSize="14.0sp" android:textColor="@color/gray_1" android:gravity="center_vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/my_kf" android:drawableLeft="@mipmap/my_kf" android:drawablePadding="14.0dip" android:layout_centerVertical="true" />
+                    <ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/icon_arrow" android:layout_alignParentRight="true" android:layout_centerVertical="true" />
+                </RelativeLayout>
+                <View android:background="@color/divider" android:layout_width="fill_parent" android:layout_height="1.0px" />
+                <RelativeLayout android:id="@+id/rl_my_xx" android:background="@drawable/bg_white_gray_selector" android:paddingLeft="17.0dip" android:paddingRight="15.0dip" android:layout_width="fill_parent" android:layout_height="46.0dip">
+                    <TextView android:textSize="14.0sp" android:textColor="@color/gray_1" android:gravity="center_vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/my_xx" android:drawableLeft="@mipmap/my_xx" android:drawablePadding="16.0dip" android:layout_centerVertical="true" />
+                    <ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/icon_arrow" android:layout_alignParentRight="true" android:layout_centerVertical="true" />
+                </RelativeLayout>
+                <View android:background="@color/divider" android:layout_width="fill_parent" android:layout_height="1.0px" />
+                <RelativeLayout android:id="@+id/rl_my_sh" android:background="@drawable/bg_white_gray_selector" android:paddingLeft="17.0dip" android:paddingRight="15.0dip" android:layout_width="fill_parent" android:layout_height="46.0dip">
+                    <TextView android:textSize="14.0sp" android:textColor="@color/gray_1" android:gravity="center_vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/my_sh" android:drawableLeft="@mipmap/my_sh" android:drawablePadding="16.0dip" android:layout_centerVertical="true" />
+                    <ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/icon_arrow" android:layout_alignParentRight="true" android:layout_centerVertical="true" />
+                </RelativeLayout>
+                <View android:background="@color/divider" android:layout_width="fill_parent" android:layout_height="1.0px" />
+                <RelativeLayout android:id="@+id/rl_my_sz" android:background="@drawable/bg_white_gray_selector" android:paddingLeft="17.0dip" android:paddingRight="15.0dip" android:layout_width="fill_parent" android:layout_height="46.0dip">
+                    <TextView android:textSize="14.0sp" android:textColor="@color/gray_1" android:gravity="center_vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/my_sz" android:drawableLeft="@mipmap/my_sz" android:drawablePadding="16.0dip" android:layout_centerVertical="true" />
+                    <ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/icon_arrow" android:layout_alignParentRight="true" android:layout_centerVertical="true" />
+                </RelativeLayout>
+                <View android:background="@color/divider" android:layout_width="fill_parent" android:layout_height="1.0px" />
+                <RelativeLayout android:id="@+id/rl_my_gy" android:background="@drawable/bg_white_gray_selector" android:paddingLeft="17.0dip" android:paddingRight="15.0dip" android:layout_width="fill_parent" android:layout_height="46.0dip">
+                    <TextView android:textSize="14.0sp" android:textColor="@color/gray_1" android:gravity="center_vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/my_gy" android:drawableLeft="@mipmap/my_gy" android:drawablePadding="16.0dip" android:layout_centerVertical="true" />
+                    <ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/icon_arrow" android:layout_alignParentRight="true" android:layout_centerVertical="true" />
+                </RelativeLayout>
+                <View android:background="@color/divider" android:layout_width="fill_parent" android:layout_height="1.0px" />
+            </LinearLayout>
+        </ScrollView>
+        <TextView android:textSize="14.0sp" android:textColor="@color/white" android:gravity="center" android:id="@+id/tv_fifty_hint" android:background="@color/gray_1" android:padding="20.0dip" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/register_is_complete" android:layout_centerInParent="true" />
+    </RelativeLayout>
+</LinearLayout>

@@ -1,0 +1,608 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\win 10\Desktop\CN5E-shop-master\sharesdk\build\intermediates\bundles\default\libs\ShareSDK-Email-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fbe195bda789aed79c1d751479c7c38864dbee2">
+        <dex dex="C:\Users\win 10\Desktop\CN5E-shop-master\app\build\intermediates\transforms\dex\debug\folders\1000\8\ShareSDK-Email-3.0.0_8c604381597c7589195e7ec6954c1baa381daf02\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\win 10\.android\build-cache\7d6bd47c91cbc6d71d8111ed526fe38efc1f6271\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="C:\Users\win 10\Desktop\CN5E-shop-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_cbf9816cff52c3227875a31a99be53315e513fc2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\win 10\.android\build-cache\ec3f8cabf58d02eb09cd6c9ab9a14fbe79957d96\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0118b18fa58bfa59b007e93aa84953f7c631a676">
+        <dex dex="C:\Users\win 10\Desktop\CN5E-shop-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fb49a8c8a2896b4f331dec9cea0048b3e8c0fa32\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\win 10\.android\build-cache\fc3b15bd2c97f402eafc4281947ce43f06443c55\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\win 10\Desktop\CN5E-shop-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e93065f41aba90782f5fbfaa23301ba4aa827a5a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\win 10\.android\build-cache\fce8f9e952a7fcc8a743ab68a5e1979e620aa0a0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ff997c37654bead6c259c0b124d52bdc944f5bff">
+        <dex dex="C:\Users\win 10\Desktop\CN5E-shop-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2152ea0d5d5013d746034c40a69b7705e61e6ed3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\win 10\.android\build-cache\85b24fd33c96e09676ea86f7d53c458298d504f2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5f79b1232c817718a764464331f75b7c6b0b4da2">
+        <dex dex="C:\Users\win 10\Desktop\CN5E-shop-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_986fda37d8339b69f5f9c9e7d6ddaa71f22a2e42\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\win 10\Desktop\CN5E-shop-master\lib\pingpp\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="73f51ac76876c2ffd923f1b8ea9628f5898fc336">
+        <dex dex="C:\Users\win 10\Desktop\CN5E-shop-master\app\build\intermediates\transforms\dex\debug\folders\1000\4\classes_e9994f2a406ea3c94c4a22a9492700cc1025bad9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\win 10\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\win 10\Desktop\CN5E-shop-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_c78f524dea48748d1036f2f80ebbd8bdac029600\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\win 10\Desktop\CN5E-shop-master\sharesdk\build\intermediates\bundles\default\libs\ShareSDK-Wechat-Moments-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7fbb4c6e7fd3c1d97a41d6058d851f8cb5503020">
+        <dex dex="C:\Users\win 10\Desktop\CN5E-shop-master\app\build\intermediates\transforms\dex\debug\folders\1000\8\ShareSDK-Wechat-Moments-3.0.0_5fd78858ce4cbc24cdbf7ea0f6a5ce8752a09e99\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\win 10\.android\build-cache\90855c756c858d3e24d13b19ca1d275f011403c7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\win 10\Desktop\CN5E-shop-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e31dcc155b00f4421665aacda86cfcbde87a6ef4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\win 10\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\win 10\Desktop\CN5E-shop-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_237ef8a496b7f300912f2db603566f1b8b2f7e11\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\win 10\.android\build-cache\a3db58b1f809c5c3e4c4247f30aabe6e6838ed1f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="41dc54248fbfeef9ecc8e810ce512aca8f500248">
+        <dex dex="C:\Users\win 10\Desktop\CN5E-shop-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_13acd5021cc44544df90e2c956cba680068a189a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\win 10\Desktop\CN5E-shop-master\sharesdk\build\intermediates\bundles\default\libs\ShareSDK-Core-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9d925df8de34c68bed8dbf9e83ff91719851a7d9">
+        <dex dex="C:\Users\win 10\Desktop\CN5E-shop-master\app\build\intermediates\transforms\dex\debug\folders\1000\8\ShareSDK-Core-3.0.0_fcb63d23ff31ee4bff21b6c99b10c092a0bb041e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\win 10\.gradle\caches\modules-2\files-2.1\com.squareup\javapoet\1.9.0\ecc5cf9c221d55481163e773b24336db149e51\javapoet-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="00ecc5cf9c221d55481163e773b24336db149e51">
+        <dex dex="C:\Users\win 10\Desktop\CN5E-shop-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\javapoet-1.9.0_47df20238ae035df7efb6978a6deb30ba76a69f1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\win 10\Desktop\CN5E-shop-master\sharesdk\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb79e0e0b0a6787a9de4ea6fdbd7141526e79612">
+        <dex dex="C:\Users\win 10\Desktop\CN5E-shop-master\app\build\intermediates\transforms\dex\debug\folders\1000\4\classes_7f1f917f851bba7b510d00f0201210f6cf4ddb7f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\win 10\.android\build-cache\d61175352df405f2e543cf4baa436c670857e13f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="C:\Users\win 10\Desktop\CN5E-shop-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2ba946ea46d2362e076900b795664fcb2b87118b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\win 10\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-compiler\8.8.1\b2f4505a1babb7b7c11abbbf8ea4c90b18c3aeac\butterknife-compiler-8.8.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b2f4505a1babb7b7c11abbbf8ea4c90b18c3aeac">
+        <dex dex="C:\Users\win 10\Desktop\CN5E-shop-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\butterknife-compiler-8.8.1_dc900e94ef49feb1a86076753c74ad24524793f7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\win 10\.android\build-cache\37d4c31b0863c1b1d9ef7fd8657abfe21842b975\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\win 10\Desktop\CN5E-shop-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b020380a989bba50ca0d35f8f80cc72b86c4a248\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\win 10\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\Users\win 10\Desktop\CN5E-shop-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-tasks-1.4.0_5ba0aa469984c5f0469be638f97a64950d84b1ba\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\win 10\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.5.2\ecf534dba3a8446ce84cbb797d314763be212a68\glide-3.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecf534dba3a8446ce84cbb797d314763be212a68">
+        <dex dex="C:\Users\win 10\Desktop\CN5E-shop-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\glide-3.5.2_946399a7c26460a167b241cb55c7f989107b9ad1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\win 10\.android\build-cache\7e29f6f652fd01b1008bf27f911844163a2e526b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c1def4f6e8a41985b7b7af4d3b5b5d94f61d01b0">
+        <dex dex="C:\Users\win 10\Desktop\CN5E-shop-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8722b90c10b1f6053f6b3f21dcdd3ce4f2b052b5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\win 10\.android\build-cache\a130cb77c5793c7806f7e58981162d5b4fbfc6ae\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="C:\Users\win 10\Desktop\CN5E-shop-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_74eb8eeb1af8e5c18f1784b5bfdf3d66240be747\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\win 10\.android\build-cache\d5fc569fa5ea3e8e62ad2d7c0f93bfd4bde99ec6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="98b5309c8d368a7c83ca5f90e0c905044c195edd">
+        <dex dex="C:\Users\win 10\Desktop\CN5E-shop-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e2b0c7e6a7284111fb4efadf329b8e993783dc4a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\win 10\.android\build-cache\d1b23b5aea3cb2cbfbb147290e095b58dc8283c7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="597d857fe9b090c4582f0855a2c6d6cc45fec544">
+        <dex dex="C:\Users\win 10\Desktop\CN5E-shop-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_721398769dce73e71103d7aa51b067d6fbaf17a6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\win 10\.android\build-cache\73e1678edcbb03269fe746743f11def1a65f7d62\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\win 10\Desktop\CN5E-shop-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_28e4f23c44fb5d8c93b6531e9125fb6e67422e1d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\win 10\Desktop\CN5E-shop-master\sharesdk\build\intermediates\bundles\default\libs\ShareSDK-ShortMessage-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f504625bfc1b43c1477b5b99071c28cba44b1d8c">
+        <dex dex="C:\Users\win 10\Desktop\CN5E-shop-master\app\build\intermediates\transforms\dex\debug\folders\1000\8\ShareSDK-ShortMessage-3.0.0_03966b6dfadd950aac429b90b83f14706ee48ed4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\win 10\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="C:\Users\win 10\Desktop\CN5E-shop-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\library-2.4.0_0bf7e08665bac86dabf2f7ccf234157d17746bdc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\win 10\.gradle\caches\modules-2\files-2.1\com.google.auto\auto-common\0.8\c6f7af0e57b9d69d81b05434ef9f3c5610d498c4\auto-common-0.8.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c6f7af0e57b9d69d81b05434ef9f3c5610d498c4">
+        <dex dex="C:\Users\win 10\Desktop\CN5E-shop-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\auto-common-0.8_f1089513db0627e04007cc7ecca1671c8d53297e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\win 10\.android\build-cache\36d62dd46e166b7878cc93a09778ba2e0a1f3ca0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="273a2bcdb0e77a94dadf07203daefd38229ec99e">
+        <dex dex="C:\Users\win 10\Desktop\CN5E-shop-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9fab22f656ab2b8ebfa7c71dabc653b64ca5d8fb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\win 10\.android\build-cache\ef390b6edd07ace6a206ed733e6905edfdcd31c8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="132074980d637c7e3d265812dd4c3bf7a4037118">
+        <dex dex="C:\Users\win 10\Desktop\CN5E-shop-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fd560f3932e3593d934c6b533a0af5c4ef107927\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\win 10\.android\build-cache\a93b9d22d328a01efb127f3206ac3db41f1079df\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da3c904a03d2ea9b6d301e818264ef917416aa76">
+        <dex dex="C:\Users\win 10\Desktop\CN5E-shop-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0968e9f0a102f8fa59428e59e764038bbf0d19e1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\win 10\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="C:\Users\win 10\Desktop\CN5E-shop-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.6.0_065be43162af3240a076a8d9ea1ea34d57d87cda\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\win 10\.android\build-cache\a59590231bbb82cc785e825f72104ef8fc468a8c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="08962e03b6a954c65d4944e092879b7f5ee1208d">
+        <dex dex="C:\Users\win 10\Desktop\CN5E-shop-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f1b19cd25216bfa6a61082f253b5b717f37a2baa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\win 10\Desktop\CN5E-shop-master\sharesdk\build\intermediates\bundles\default\libs\ShareSDK-SinaWeibo-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="446972c6358d997e9aac55a209854ac8a7fc3b7c">
+        <dex dex="C:\Users\win 10\Desktop\CN5E-shop-master\app\build\intermediates\transforms\dex\debug\folders\1000\8\ShareSDK-SinaWeibo-3.0.0_d6f879dfd8c8be4676e044b89f2440bda180e523\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\win 10\.gradle\caches\modules-2\files-2.1\com.google.guava\guava\19.0\6ce200f6b23222af3d8abb6b6459e6c44f4bb0e9\guava-19.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ce200f6b23222af3d8abb6b6459e6c44f4bb0e9">
+        <dex dex="C:\Users\win 10\Desktop\CN5E-shop-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\guava-19.0_410375c330da177f6acf8be7f9f4717d45a8cffe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\win 10\.android\build-cache\9c93b7a7cdd4e5f4398b00a5bf6c5354768e9de3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\win 10\Desktop\CN5E-shop-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3e3b766dad3bc9ba28e7d1c4f72f45b2c9df1aab\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\win 10\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp-urlconnection\2.7.5\b3ae78e05ff9fdb1788db2056b583281ef684277\okhttp-urlconnection-2.7.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b3ae78e05ff9fdb1788db2056b583281ef684277">
+        <dex dex="C:\Users\win 10\Desktop\CN5E-shop-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-urlconnection-2.7.5_f332f21eed7992614e53e4d6795b61ddc98025e0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\win 10\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.8.1\bc373fb6bc7bca3035041b924f158fd2b946ee8d\butterknife-annotations-8.8.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bc373fb6bc7bca3035041b924f158fd2b946ee8d">
+        <dex dex="C:\Users\win 10\Desktop\CN5E-shop-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\butterknife-annotations-8.8.1_2391d8cc2159ec8525fb968893de39e1eaa36595\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\win 10\Desktop\CN5E-shop-master\sharesdk\build\intermediates\bundles\default\libs\ShareSDK-QQ-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ebf7b1b50079fe59819f75523ab5348fead693ce">
+        <dex dex="C:\Users\win 10\Desktop\CN5E-shop-master\app\build\intermediates\transforms\dex\debug\folders\1000\8\ShareSDK-QQ-3.0.0_3996c9562848085be7391fbd96a77730f2da7097\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\win 10\Desktop\CN5E-shop-master\sharesdk\build\intermediates\bundles\default\libs\MobTools-2017.0608.1618.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5738585f59cff6a942053a1bc2f8f2c7ecb00705">
+        <dex dex="C:\Users\win 10\Desktop\CN5E-shop-master\app\build\intermediates\transforms\dex\debug\folders\1000\8\MobTools-2017.0608.1618_eb9c326acde11e30ed0370e52164778f70f96fb9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\win 10\.android\build-cache\3e6d274aea82c6935822f056e234281846e96d47\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="C:\Users\win 10\Desktop\CN5E-shop-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bd87b1aa02ad369f3ae6aa7ec754d59107f01ec5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\win 10\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.8.1\2a8e0aa38a2e21cb39e2f5a7d6704cbdc941da0\gson-2.8.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02a8e0aa38a2e21cb39e2f5a7d6704cbdc941da0">
+        <dex dex="C:\Users\win 10\Desktop\CN5E-shop-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.8.1_e8b49aa811b53636e8e0b51844a3673cc636b5b6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\win 10\.gradle\caches\modules-2\files-2.1\com.alibaba\fastjson\1.2.51\1f974e3f64393903a419950c0d4e708a23b4eb3\fastjson-1.2.51.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="01f974e3f64393903a419950c0d4e708a23b4eb3">
+        <dex dex="C:\Users\win 10\Desktop\CN5E-shop-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\fastjson-1.2.51_7f7f940c2b85b4470540e6ef4c3fc5fdd053f91d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\win 10\.android\build-cache\1e936acc3afb8191d2ef542f7423e53ab875c02f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\win 10\Desktop\CN5E-shop-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1e0289bcdadb3228b6fabc771fa8cf2c6aef3521\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\win 10\.android\build-cache\162dc78839a7b53ee67510d2065778034e4e7d03\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6a2bcb61342d09fe9acf55c9daf63961c8866cc0">
+        <dex dex="C:\Users\win 10\Desktop\CN5E-shop-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3a442c2d7f2f6a92262b4500d728fea05b24542b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\win 10\.android\build-cache\c336cd31c16283e7ddfcdaed1961a6961ddd0dcf\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf94678214d9ab43a8deb5df90d0b3e6d619ff1e">
+        <dex dex="C:\Users\win 10\Desktop\CN5E-shop-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_62cf46a5a6624156bd308e71ea578ef644ed3a5c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\win 10\Desktop\CN5E-shop-master\sharesdk\build\intermediates\bundles\default\libs\ShareSDK-Wechat-Core-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a9b91d3213ce1ce04e7a3077fb50aa7abd5d2109">
+        <dex dex="C:\Users\win 10\Desktop\CN5E-shop-master\app\build\intermediates\transforms\dex\debug\folders\1000\8\ShareSDK-Wechat-Core-3.0.0_d6beaa262937ebf021e75e765fe9b9d320d1858a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\win 10\Desktop\CN5E-shop-master\sharesdk\build\intermediates\bundles\default\libs\ShareSDK-Facebook-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b1c93e6119b2219d77c64381524eb182b9ca6c4">
+        <dex dex="C:\Users\win 10\Desktop\CN5E-shop-master\app\build\intermediates\transforms\dex\debug\folders\1000\8\ShareSDK-Facebook-3.0.0_fc1c7f89556724d711fe7c87075a47bc72a1d380\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\win 10\.android\build-cache\4613871b11f1128ea36fa46bffc6f691a1e5a15b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\win 10\Desktop\CN5E-shop-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b6c27ab39e31bcfd880e44f51a92c4050852b7b6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\win 10\.android\build-cache\8ac7890b350fb273582761153d648b1c9b8fd546\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f05ef472841da86c5b42cf99abcb3ccd63565e49">
+        <dex dex="C:\Users\win 10\Desktop\CN5E-shop-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6a4b58914e722fab89161fbc5281c80dca4c8c2c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\win 10\.android\build-cache\366b94487c6b539c06478c8e26e52d79526ae90a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\win 10\Desktop\CN5E-shop-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_40d7a6126cf695951f5e9feddc273a856fe16aca\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\win 10\.android\build-cache\f2525f1d7766d94c15dfa02c966a4d15890a69a6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\win 10\Desktop\CN5E-shop-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_50d4de70a5ccaaa1b8b13d3bc13b789ae17e0d0c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\win 10\Desktop\CN5E-shop-master\sharesdk\build\intermediates\bundles\default\libs\ShareSDK-Twitter-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c4e8780ae6282eeaf34d849357876f2d39a2e895">
+        <dex dex="C:\Users\win 10\Desktop\CN5E-shop-master\app\build\intermediates\transforms\dex\debug\folders\1000\8\ShareSDK-Twitter-3.0.0_2a8a116551576a85812b046e33e2793e8dc1f1ac\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\win 10\.android\build-cache\40f7cd11d18a7d37cf905e316e7859dce4f2cf12\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="C:\Users\win 10\Desktop\CN5E-shop-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_42c6f366d3cabc1f1ce43b6abe1fb57dfde42420\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\win 10\Desktop\CN5E-shop-master\sharesdk\build\intermediates\bundles\default\libs\ShareSDK-TencentWeibo-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bba69f70d36d1bf2d5f37ba6bf4826065e4f4bc6">
+        <dex dex="C:\Users\win 10\Desktop\CN5E-shop-master\app\build\intermediates\transforms\dex\debug\folders\1000\8\ShareSDK-TencentWeibo-3.0.0_6026bfb60816453afd256de47776bb9726819009\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\win 10\.android\build-cache\a44b1070c1be9d3639b073c27d61004266b92538\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="C:\Users\win 10\Desktop\CN5E-shop-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_077f6c4b0c418a42be20d3c7bae4e30d70d8c224\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\win 10\.android\build-cache\086d51cfdb0bdafb222f6cf6857750884196d9f5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\Users\win 10\Desktop\CN5E-shop-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c8a7de1a6a912c87f13f27e87380f0523dc5aa02\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\win 10\.android\build-cache\6599da00730fc637ab53cda24b16d63c82a6a2ab\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\win 10\Desktop\CN5E-shop-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_104fefaf3ff5488df170af6ce6a28b09005c341a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\win 10\.android\build-cache\fb7ebfe4e38b437579aec1ba79ecbe78d7f51916\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\win 10\Desktop\CN5E-shop-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_43a2f600ab15d3b4ac142ecb6bdf61a2baa72b00\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\win 10\Desktop\CN5E-shop-master\sharesdk\build\intermediates\bundles\default\libs\ShareSDK-Wechat-Favorite-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="035e2c6407f6bffb5054327c7d9877524e55b60d">
+        <dex dex="C:\Users\win 10\Desktop\CN5E-shop-master\app\build\intermediates\transforms\dex\debug\folders\1000\8\ShareSDK-Wechat-Favorite-3.0.0_77bfb60ef0ac963132003d9582e1f31f3fc23f79\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\win 10\Desktop\CN5E-shop-master\sharesdk\build\intermediates\bundles\default\libs\MobCommons-2017.0608.1618.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c7d1169e978bc687ac8ef4aa58f8678dc2cc1b8e">
+        <dex dex="C:\Users\win 10\Desktop\CN5E-shop-master\app\build\intermediates\transforms\dex\debug\folders\1000\8\MobCommons-2017.0608.1618_17ab5980b48f22d0d6ae0843442e851cff9026b0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\win 10\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.7.5\7a15a7db50f86c4b64aa3367424a60e3a325b8f1\okhttp-2.7.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7a15a7db50f86c4b64aa3367424a60e3a325b8f1">
+        <dex dex="C:\Users\win 10\Desktop\CN5E-shop-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-2.7.5_a7d9e9a0be1789f3fc6e4ebfcb6a2a24163720f6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\win 10\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.3.2\d6b7f0093cec6c9faf65dbfd6a6a345d0ed25e27\picasso-2.3.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d6b7f0093cec6c9faf65dbfd6a6a345d0ed25e27">
+        <dex dex="C:\Users\win 10\Desktop\CN5E-shop-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\picasso-2.3.2_8b59b965364e565407ff1613f93785a4cb5dac84\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\win 10\Desktop\CN5E-shop-master\sharesdk\build\intermediates\bundles\default\libs\ShareSDK-QZone-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a84a6a119c5e619a23e6b836896c12ff18b7cad4">
+        <dex dex="C:\Users\win 10\Desktop\CN5E-shop-master\app\build\intermediates\transforms\dex\debug\folders\1000\8\ShareSDK-QZone-3.0.0_0fbfc5879ff8381d0ffd3e9303d221ab5569641a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\win 10\.android\build-cache\7a74dfef791407ba49e10e0aa65f48a26c34aa29\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dbc4c2537071b3be108501a5ed268ef5d8162e64">
+        <dex dex="C:\Users\win 10\Desktop\CN5E-shop-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f0111c4287c9ff77f7f2d4c49f5b9c0927497cea\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\win 10\.android\build-cache\1c24ffdaa8f39354cb622f2a8e658da8321d1d53\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\Users\win 10\Desktop\CN5E-shop-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f89088876f380ca2bae4f5a75a14f830e8ebc5fe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\win 10\Desktop\CN5E-shop-master\sharesdk\build\intermediates\bundles\default\libs\ShareSDK-Wechat-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="922000c92c470de6f36ee9dfe90597efb5b13a0e">
+        <dex dex="C:\Users\win 10\Desktop\CN5E-shop-master\app\build\intermediates\transforms\dex\debug\folders\1000\8\ShareSDK-Wechat-3.0.0_1006fe37b16a05104305f42908e65c503ad7c582\classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="classify_layout_width">80dp</dimen>
+    <dimen name="classify_Slider_height">100dp</dimen>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="thirty_two_sp">16.0sp</dimen>
+    <dimen name="eighteen_px">9.0dip</dimen>
+    <dimen name="eighty_eight_px">44.0dip</dimen>
+    <dimen name="thirty_px">15.0dip</dimen>
+    <dimen name="header_text_size">18.0sp</dimen>
+    <dimen name="thirty_sp">15.0sp</dimen>
+</resources>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="@color/white" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <RelativeLayout android:id="@+id/title_root" android:background="@color/white" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="@dimen/eighty_eight_px">
+        <ImageView android:id="@+id/left_text" android:paddingLeft="@dimen/thirty_px" android:paddingTop="10.0dip" android:paddingRight="20.0dip" android:paddingBottom="10.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/icon_arrow_left" android:scaleType="centerCrop" android:layout_alignParentLeft="true" android:layout_centerVertical="true" />
+        <TextView android:textSize="@dimen/header_text_size" android:textColor="@color/gray_1" android:ellipsize="end" android:id="@+id/title_content" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="90.0dip" android:layout_marginRight="90.0dip" android:singleLine="true" android:layout_centerInParent="true" />
+        <TextView android:textSize="15.0sp" android:textColor="@color/look_detail_bg" android:id="@+id/right_text" android:padding="12.0dip" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="2.0dip" android:layout_alignParentRight="true" android:layout_centerVertical="true" />
+    </RelativeLayout>
+    <View android:background="@color/line" android:layout_width="fill_parent" android:layout_height="1.0px" />
+    <RelativeLayout android:layout_width="fill_parent" android:layout_height="50.0dip">
+        <LinearLayout android:orientation="horizontal" android:id="@+id/ll_total_view" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <RelativeLayout android:id="@+id/ll_account_password" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="1.0">
+                <TextView android:textSize="15.0sp" android:textColor="@color/text_gray" android:gravity="center" android:id="@+id/tv_account_password" android:layout_width="fill_parent" android:layout_height="fill_parent" android:text="@string/account_password_login" />
+                <View android:id="@+id/view_account_password" android:background="@color/look_detail_bg" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="2.0dip" android:layout_alignParentBottom="true" />
+            </RelativeLayout>
+            <RelativeLayout android:id="@+id/ll_sms" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="1.0">
+                <TextView android:textSize="15.0sp" android:textColor="@color/text_gray" android:gravity="center" android:id="@+id/tv_sms" android:layout_width="fill_parent" android:layout_height="fill_parent" android:text="@string/sms_login" />
+                <View android:id="@+id/view_sms" android:background="@color/look_detail_bg" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="2.0dip" android:layout_alignParentBottom="true" />
+            </RelativeLayout>
+        </LinearLayout>
+        <View android:background="@color/line" android:layout_width="fill_parent" android:layout_height="1.0px" android:layout_alignParentBottom="true" />
+    </RelativeLayout>
+    <FrameLayout android:id="@+id/fl_content" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+</LinearLayout>
